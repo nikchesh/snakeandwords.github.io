@@ -1,63 +1,77 @@
-**Privacy Policy**
+# Privacy Policy
 
-This privacy policy applies to the Snake And Words app (hereby referred to as "Application") for mobile devices that was created by Cheshov Nikolay (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This Privacy Policy applies to the **Snake And Words** mobile application (the "Application"), created by **Cheshov Nikolay** (the "Developer") as a free application.
 
-**Information Collection and Use**
+By using the Application, you agree to the practices described in this Privacy Policy.
 
-The Application collects information when you download and use it. This information may include information such as
+## Information the Application Processes
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+The Application may process the following information:
 
-The Application does not gather precise information about the location of your mobile device.
+- a nickname or profile name provided by the user;
+- user-created words, translations, and categories;
+- learning progress, game progress, and app settings stored on the device;
+- text entered by the user when using the automatic translation feature.
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+## How the Information Is Used
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The Application uses this information to:
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+- display the user profile inside the app;
+- save progress and settings;
+- allow users to create and manage their own study categories;
+- request translation results when the user uses the automatic translation feature.
 
-**Third Party Access**
+## Local Storage
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Certain information, such as profile data, progress, settings, and user-created categories, may be stored locally on the user’s device.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+## Third-Party Translation Service
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+When the user uses the automatic translation feature, words or text entered by the user may be sent to the third-party translation service **MyMemory (Translated S.r.l.)** in order to return translation results.
 
-**Opt-Out Rights**
+The Developer does not control how the third-party translation service processes data once it is received by that service. Users should avoid entering personal, sensitive, or confidential information into translation fields.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+More information about MyMemory is available here:
 
-**Data Retention Policy**
+- Terms and Conditions: https://mymemory.translated.net/terms-and-conditions
+- Usage Limits / API Information: https://mymemory.translated.net/doc/usagelimits.php
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at nemnogo.ne.anton@gmail.com and they will respond in a reasonable time.
+## Advertising
 
-**Children**
+The current version of the Application does **not** include advertising.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+## Data Sharing
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider <span>(nemnogo.ne.anton@gmail.com)</span> so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+Other than the transmission of user-entered text to the third-party translation service when the translation feature is used, the Application does not intentionally share user data with the Developer’s own servers.
 
-**Security**
+## Data Retention and Deletion
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+Data stored locally on the user’s device remains there until:
 
-**Changes**
+- the user deletes it within the Application, if such functionality is available;
+- the user clears the app’s data through the device settings;
+- the user uninstalls the Application.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+The Developer does not provide account-based cloud storage or account deletion functionality in the current version of the Application.
 
-This privacy policy is effective as of 2026-04-14
+## Children
 
-**Your Consent**
+The Application is not intended to knowingly collect personal information from children. If you believe that a child has provided personal information through the Application, please contact the Developer so that appropriate steps can be taken.
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+## Security
 
-**Contact Us**
+The Developer takes reasonable steps to protect information processed by the Application. However, no method of electronic storage or transmission over the Internet can be guaranteed to be completely secure.
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at nemnogo.ne.anton@gmail.com.
+## Changes to This Privacy Policy
 
+This Privacy Policy may be updated from time to time. Any changes will be reflected by updating this page. Continued use of the Application after changes are posted means that you accept the updated Privacy Policy.
+
+**Effective date:** 2026-04-14
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or privacy practices related to the Application, please contact:
+
+**Cheshov Nikolay**  
+**Email:** nemnogo.ne.anton@gmail.com
